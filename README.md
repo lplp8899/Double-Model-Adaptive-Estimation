@@ -3,10 +3,10 @@
 This is the code for the following journal paper:
 
 P. Lu, E. van Kampen, C. C. de Visser, Q. P. Chu
-Framework for state and unknown input estimation of linear time-varying systems
+Framework for state and unknown input estimation of linear time-varying systems.
 Automatica, 2016(73), 145-154
 
-### This method can cope with the state and unknown input estimation when the existence condition of unknown input Kalman filters or unknown input observers does not hold.
+This method can cope with the state and unknown input estimation when the existence condition of unknown input Kalman filters or unknown input observers does not hold.
 
 # Usage
 
